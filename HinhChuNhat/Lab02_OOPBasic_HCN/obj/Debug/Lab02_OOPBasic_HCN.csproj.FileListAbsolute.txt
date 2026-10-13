@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab02\HinhChuNhat\Lab02_OOPBasic_HCN\bin\Debug\Lab02_OOPBasic_HCN.exe.config
+D:\BT Classroom Lab\Lab02\HinhChuNhat\Lab02_OOPBasic_HCN\bin\Debug\Lab02_OOPBasic_HCN.exe
+D:\BT Classroom Lab\Lab02\HinhChuNhat\Lab02_OOPBasic_HCN\bin\Debug\Lab02_OOPBasic_HCN.pdb
+D:\BT Classroom Lab\Lab02\HinhChuNhat\Lab02_OOPBasic_HCN\obj\Debug\Lab02_OOPBasic_HCN.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab02\HinhChuNhat\Lab02_OOPBasic_HCN\obj\Debug\Lab02_OOPBasic_HCN.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab02\HinhChuNhat\Lab02_OOPBasic_HCN\obj\Debug\Lab02_OOPBasic_HCN.exe
+D:\BT Classroom Lab\Lab02\HinhChuNhat\Lab02_OOPBasic_HCN\obj\Debug\Lab02_OOPBasic_HCN.pdb

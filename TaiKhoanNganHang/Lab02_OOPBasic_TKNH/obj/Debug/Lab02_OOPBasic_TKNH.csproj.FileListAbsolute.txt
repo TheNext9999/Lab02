@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab02\TaiKhoanNganHang\Lab02_OOPBasic_TKNH\bin\Debug\Lab02_OOPBasic_TKNH.exe.config
+D:\BT Classroom Lab\Lab02\TaiKhoanNganHang\Lab02_OOPBasic_TKNH\bin\Debug\Lab02_OOPBasic_TKNH.exe
+D:\BT Classroom Lab\Lab02\TaiKhoanNganHang\Lab02_OOPBasic_TKNH\bin\Debug\Lab02_OOPBasic_TKNH.pdb
+D:\BT Classroom Lab\Lab02\TaiKhoanNganHang\Lab02_OOPBasic_TKNH\obj\Debug\Lab02_OOPBasic_TKNH.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab02\TaiKhoanNganHang\Lab02_OOPBasic_TKNH\obj\Debug\Lab02_OOPBasic_TKNH.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab02\TaiKhoanNganHang\Lab02_OOPBasic_TKNH\obj\Debug\Lab02_OOPBasic_TKNH.exe
+D:\BT Classroom Lab\Lab02\TaiKhoanNganHang\Lab02_OOPBasic_TKNH\obj\Debug\Lab02_OOPBasic_TKNH.pdb

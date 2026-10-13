@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab02\QLSinhVien\Lab02_OOPBasic_QLSV\bin\Debug\Lab02_OOPBasic_QLSV.exe.config
+D:\BT Classroom Lab\Lab02\QLSinhVien\Lab02_OOPBasic_QLSV\bin\Debug\Lab02_OOPBasic_QLSV.exe
+D:\BT Classroom Lab\Lab02\QLSinhVien\Lab02_OOPBasic_QLSV\bin\Debug\Lab02_OOPBasic_QLSV.pdb
+D:\BT Classroom Lab\Lab02\QLSinhVien\Lab02_OOPBasic_QLSV\obj\Debug\Lab02_OOPBasic_QLSV.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab02\QLSinhVien\Lab02_OOPBasic_QLSV\obj\Debug\Lab02_OOPBasic_QLSV.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab02\QLSinhVien\Lab02_OOPBasic_QLSV\obj\Debug\Lab02_OOPBasic_QLSV.exe
+D:\BT Classroom Lab\Lab02\QLSinhVien\Lab02_OOPBasic_QLSV\obj\Debug\Lab02_OOPBasic_QLSV.pdb

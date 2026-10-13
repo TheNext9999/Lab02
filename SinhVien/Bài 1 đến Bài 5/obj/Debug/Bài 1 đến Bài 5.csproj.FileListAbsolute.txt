@@ -1,0 +1,7 @@
+D:\BT Classroom Lab\Lab02\SinhVien\Bài 1 đến Bài 5\obj\Debug\Bài 1 đến Bài 5.csproj.AssemblyReference.cache
+D:\BT Classroom Lab\Lab02\SinhVien\Bài 1 đến Bài 5\obj\Debug\Bài 1 đến Bài 5.csproj.CoreCompileInputs.cache
+D:\BT Classroom Lab\Lab02\SinhVien\Bài 1 đến Bài 5\bin\Debug\Bài 1 đến Bài 5.exe.config
+D:\BT Classroom Lab\Lab02\SinhVien\Bài 1 đến Bài 5\bin\Debug\Bài 1 đến Bài 5.exe
+D:\BT Classroom Lab\Lab02\SinhVien\Bài 1 đến Bài 5\bin\Debug\Bài 1 đến Bài 5.pdb
+D:\BT Classroom Lab\Lab02\SinhVien\Bài 1 đến Bài 5\obj\Debug\Bài 1 đến Bài 5.exe
+D:\BT Classroom Lab\Lab02\SinhVien\Bài 1 đến Bài 5\obj\Debug\Bài 1 đến Bài 5.pdb

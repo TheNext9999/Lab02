@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BT Classroom Lab\\Lab02\\SinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A325070-5CC1-436C-BFB3-C0E1AEFFD891}|B\u00E0i 1 \u0111\u1EBFn B\u00E0i 5\\B\u00E0i 1 \u0111\u1EBFn B\u00E0i 5.csproj|d:\\bt classroom lab\\lab02\\sinhvien\\b\u00E0i 1 \u0111\u1EBFn b\u00E0i 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A325070-5CC1-436C-BFB3-C0E1AEFFD891}|B\u00E0i 1 \u0111\u1EBFn B\u00E0i 5\\B\u00E0i 1 \u0111\u1EBFn B\u00E0i 5.csproj|solutionrelative:b\u00E0i 1 \u0111\u1EBFn b\u00E0i 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BT Classroom Lab\\Lab02\\SinhVien\\B\u00E0i 1 \u0111\u1EBFn B\u00E0i 5\\Program.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 1 \u0111\u1EBFn B\u00E0i 5\\Program.cs",
+              "ToolTip": "D:\\BT Classroom Lab\\Lab02\\SinhVien\\B\u00E0i 1 \u0111\u1EBFn B\u00E0i 5\\Program.cs*",
+              "RelativeToolTip": "B\u00E0i 1 \u0111\u1EBFn B\u00E0i 5\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:34:34.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
